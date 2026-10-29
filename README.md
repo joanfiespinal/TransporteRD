@@ -8,8 +8,11 @@ Grupo: Grupo 4
 Integrantes
 
 Benson Ho Chen
+
 Abel Taveras
+
 Joanfi Espinal López
+
 José Peña
 
 Descripción del proyecto
