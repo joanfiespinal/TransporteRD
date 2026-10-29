@@ -10,7 +10,6 @@ Integrantes
 Benson Ho Chen
 Abel Taveras
 Joanfi Espinal López
-Yadeiry Nicole Brito Reynoso
 José Peña
 
 Descripción del proyecto
